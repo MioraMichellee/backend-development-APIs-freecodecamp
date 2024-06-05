@@ -1,7 +1,7 @@
 {
 	"author": "Miora mioramichelle25@gmail.com",
 	"description": "A project that does smthg awesome",
-	"keywords": ["freeCodeCamp", "project", "keywords"],
+	"keywords": ["freecodecamp", "project", "keywords"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
